@@ -67,3 +67,6 @@ print(s[4:10]) # Scienc
 s = "PythonProgramming"
 print(s[:6]) # Python
 print(s[6:]) # Programming
+
+s = "FullStackDeveloper"
+print(s[:9]) # FullStack
